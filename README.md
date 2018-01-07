@@ -15,3 +15,5 @@ Changing the gausian blur contribution, can have a big impact on the finale resu
 
 [Try the demo](https://github.com/LightTrails/Vision/releases/download/0.1/Demo.zip)
 
+![Alt text](Images/Demo1.png "Grayscale")
+![Alt text](Images/Demo2.png "Otzu")
